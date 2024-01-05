@@ -15,3 +15,5 @@ Nonetheless, both types of diabetes are affected by both genetics and the indivi
 Can we accurately predict an individuals disease status (diabetes, pre diabetes, or no diabetes) using data derived from the BRFSS questionnare?
 
 To answer this question we can explore various machine learning models and test them on our large dataset
+
+**Please View the Jupyter Notebook using [NBviewer!](https://nbviewer.org/github/RamizK01/Predicting-Diabetes-with-BRFSS/blob/main/Diabetes%20proj.ipynb)**
